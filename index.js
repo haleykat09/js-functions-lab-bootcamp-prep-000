@@ -9,15 +9,15 @@ function happyHolidaysTo() {
 
 function happyHolidayTo() {
   return (`Happy ${holiday}, ${name}!`)
+  var holiday = "Independence Day"
 }
 
 function holidayCountdown() {
   return (`It's ${days} until ${holiday}!`)
+  var holiday = "Mother's Day"
 }
 
 var name = "you"
 
-var holiday = {
-  if (string === "It's ${days} until ${holiday}!") {return `Independence Day`}
-  else if (string === "Happy ${holiday}, ${name}!") {return `Mother\'s Day`}
-}
+var days = 20
+
