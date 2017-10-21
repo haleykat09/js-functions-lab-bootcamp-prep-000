@@ -18,6 +18,6 @@ function holidayCountdown() {
 var name = "you"
 
 var holiday = {
-  if (string === `It's ${days} until ${holiday}!`) {return `Independence Day`}
-  else if (string === `Happy ${holiday}, ${name}!`) {return `Mother\'s Day`}
+  if (string === "It's ${days} until ${holiday}!") {return `Independence Day`}
+  else if (string === "Happy ${holiday}, ${name}!") {return `Mother\'s Day`}
 }
