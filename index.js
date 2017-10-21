@@ -20,4 +20,3 @@ function holidayCountdown() {
 var name = "you"
 
 var days = 20
-
