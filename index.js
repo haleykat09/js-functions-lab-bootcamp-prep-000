@@ -17,6 +17,10 @@ function holidayCountdown() {
 
 var name = "you"
 
-var holiday = "Christmas"
+var holiday = {
+  if (function === holidayCountdown) {return "Mother's Day"}
+  else ("Independence Day")
+}
+
 
 var days = 20
