@@ -18,7 +18,7 @@ function holidayCountdown() {
 var name = "you"
 
 var holiday = {
-  if (function === holidayCountdown) {return "Mother's Day"}
+  if (function === holidayCountdown()) {return "Mother's Day"}
   else ("Independence Day")
 }
 
