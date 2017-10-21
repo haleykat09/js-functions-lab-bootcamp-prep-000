@@ -17,5 +17,7 @@ function holidayCountdown() {
 
 var name = "you"
 
-
-var days = 20
+var holiday = {
+  if (string === happyHolidayTo()) {return `Independence Day`}
+  else if (string === holidayCountdown()) {return `Mother's Day`}
+}
