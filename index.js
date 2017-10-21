@@ -8,13 +8,15 @@ function happyHolidaysTo() {
 }
 
 function happyHolidayTo() {
+  var holiday = "Independence Day";
   return (`Happy ${holiday}, ${name}!`)
-  var holiday = "Independence Day"
+  
 }
 
 function holidayCountdown() {
+  var holiday = "Mother's Day";
   return (`It's ${days} until ${holiday}!`)
-  var holiday = "Mother's Day"
+  
 }
 
 var name = "you"
